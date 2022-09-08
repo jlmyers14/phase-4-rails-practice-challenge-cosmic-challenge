@@ -62,4 +62,3 @@ RSpec.describe "Missions", type: :request do
 
   end
 end
-
